@@ -1,0 +1,56 @@
+{
+    "movies": [{
+      "title" : "Harry Potter and the Philosopher's Stone",
+      "episode_number" : "1",
+      "main_characters" : ["Albus Dumbledore", "Professor McGonagall", "Hagrid", "Harry Potter", "Aunt Petunia Dursley", "Uncle Vernon Dursley"],
+      "description" : "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+      "poster" : "harry_potter_poster_1.png",
+      "hero_image" : "harry_potter_1.jpg"
+    },
+  
+    {
+      "title" : "Harry Potter and the Chamber of Secrets",
+      "episode_number" : "2",
+      "main_characters" : ["Harry Potter", "Ron Weasley", "Hermione Granger", "Uncle Vernon", "Aunt Petunia", "Dudley Dursley"],
+      "description" : "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed.",
+      "poster" : "harry_potter_poster_2.png",
+      "hero_image" : "harry_potter_2.jpg"
+    },
+  
+    {
+      "title" : "Harry Potter and the Prisoner of Azkaban",
+      "episode_number" : "3",
+      "main_characters" : ["Harry Potter", "Uncle Vernon", "Aunt Marge", "Aunt Petunia", "James Potter", "Lily Potter", "Stan Shunpike", "Shrunken Head"],
+      "description" : "It's Harry's third year at Hogwarts; not only does he have a new Defense Against the Dark Arts teacher, but there is also trouble brewing. Convicted murderer Sirius Black has escaped the Wizards' Prison and is coming after Harry.",
+      "poster" : "harry_potter_poster_3.png",
+      "hero_image" : "harry_potter_3.jpg"
+    },
+  
+    {
+      "title" : "Harry Potter and the Goblet of Fire",
+      "episode_number" : "4",
+      "main_characters" : ["Frank Bryce", "Wormtail", "Barty Crouch Junior", "Harry Potter", "Hermione Granger", "Ron Weasley", "Arthur Weasley"],
+      "description" : "A young wizard finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+      "poster" : "harry_potter_poster_4.png",
+      "hero_image" : "harry_potter_4.jpg"
+    },
+  
+    {
+      "title" : "Harry Potter and the Order of Phoenix",
+      "episode_number" : "5",
+      "main_characters" : ["Harry Potter", "Dudley Dursley", "Piers", "Malcolm", "Mrs. Arabella Figg", "TV Weatherman", "Petunia Dursley", "Vernon Dursley"],
+      "description" : "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
+      "poster" : "harry_potter_poster_5.png",
+      "hero_image" : "harry_potter_5.jpg"
+    },
+  
+    {
+      "title" : "Harry Potter and the Half Blood Prince",
+      "episode_number" : "6",
+      "main_characters" : ["Harry Potter", "Professor Albus Dumbledore", "Fenrir Greyback", "Professor Horace Slughorn", "Ron Weasley", "Hermione Granger", "Bellatrix Lestrange"],
+      "description" : "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as the property of the Half-Blood Prince and begins to learn more about Lord Voldemort's dark past.",
+      "poster" : "harry_potter_poster_6.png",
+      "hero_image" : "harry_potter_6.jpg"
+    }]
+  
+  }
