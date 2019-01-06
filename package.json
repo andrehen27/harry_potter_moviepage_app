@@ -4,6 +4,7 @@
   "description": "basic app for harry potter movie fans",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "andre michael daniel",
